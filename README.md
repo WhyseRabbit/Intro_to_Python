@@ -67,28 +67,28 @@
 
 # Coming Soon™
 
-## 11 Advanced Class Topics
-- Super Function
-- Meta Classes
-- Dataclasses
-
-## 12 Deep vs Shallow Copy
+## 11 Deep vs Shallow Copy
 - Copy Library
 
-## 13 Parameter Packs
+## 12 Parameter Packs
 - Packing
 - Unpacking
 
-## 14 Iterators
+## 13 Iterators
 - `iter()` function
 
-## 15 Generators
+## 14 Generators
 - Generator Expression
 - Generator Function
 
-## 16 Decorators
+## 15 Decorators
 - Function Decorators
 - Class Decorators
+
+## 16 Advanced Class Topics
+- Super Function
+- Meta Classes
+- Dataclasses
 
 ## 17 Installation & Deployment
 - Pypi.org
