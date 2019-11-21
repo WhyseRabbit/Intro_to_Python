@@ -68,18 +68,29 @@
 # Coming Soon™
 
 ## 11 Deep vs Shallow Copy
-- Copy Library
+- Copy Module
 
 ## 12 Parameter Packs
 - Packing
 - Unpacking
+- Keyword Only
 
-## 13 Iterators
+## 13 Iterator vs Iterable
 - `iter()` function
+- `next()` function
+- Itertools
+    - `count()`
+    - `cycle()`
+    - `combinations()`
+    - `combinations_with_replacement()`
+    - `permutation()`
+    - `islice()`
+    - `accumulate()`
+    - `starmap()`
 
 ## 14 Generators
-- Generator Expression
 - Generator Function
+- Generator Expression
 
 ## 15 Decorators
 - Function Decorators
@@ -99,7 +110,7 @@
 - Cython
 
 ## 19 Custom Tooling
-- Dice
+- High Performance Dice
 - Function Timer
 
 ## 20 Continued Learning
