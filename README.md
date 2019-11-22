@@ -63,12 +63,10 @@
 - Polymorphism
 - Class Scope
 
----
-
-# Coming Soon™
-
 ## 11 Deep vs Shallow Copy
+- Everything in Python is a Reference
 - Copy Module
+    - `copy.deepcopy()`
 
 ## 12 Parameter Packs
 - Packing
@@ -91,10 +89,13 @@
 ## 14 Generators
 - Generator Function
 - Generator Expression
+- Generator Lambda
 
 ## 15 Decorators
-- Function Decorators
-- Class Decorators
+- Decorator Usage
+- Decorator Design
+    - Function Decorator
+    - Decorator Class
 
 ## 16 Advanced Class Topics
 - Super Function
@@ -103,16 +104,23 @@
 
 ## 17 Installation & Deployment
 - Pypi.org
-    - Pip
-    - Twine
+- Pip
+- Twine
 
 ## 18 Extensions
-- Cython
+- Basic Cython Extension
+- Knuth B Shuffle Algorithm
+- Design, Build and Install
 
 ## 19 Custom Tooling
+- Advanced Cython Extension
 - High Performance Dice
 - Function Timer
+- Design, Build, Install and Deploy
 
 ## 20 Continued Learning
-- The GIL
-- Multi-process, Multi-threaded, Multi-headache
+- PyCon
+- PyData
+- David Beazely
+- Raymond Hettinger
+- Larry Hastings
