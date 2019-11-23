@@ -94,8 +94,8 @@
 ## 15 Decorators
 - Decorator Usage
 - Decorator Design
-    - Function Decorator
-    - Decorator Class
+- Function Decorator
+- Decorator Class
 
 ## 16 Advanced Class Topics
 - Super Function
