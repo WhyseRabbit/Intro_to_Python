@@ -13,7 +13,8 @@ Stretch Goal
 1. Unpack the tuple into separate variables.
 2. Construct a list from these variables. Is this a good idea? Why or why not?
 3. Shuffle the list and cast it back to a tuple.
-4. Print the final tuple. """
+4. Print the final tuple.
+5. Find and read the documentation for the collections library. """
 from random import shuffle  # Required only for stretch goal
 
 
